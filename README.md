@@ -1,3 +1,6 @@
+# Python Essentials
+Learn the essentials of Python programming to get you up and coding effectively· Get up-to-speed with the most important built-in data structures in Python.
+
 ## 📚 Table of Contents
 
 ### 📃 Languages
