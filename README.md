@@ -1,17 +1,3 @@
-[![AWESOME CHEATSHEETS LOGO](_design/cover_github@2x.png)](https://lecoupa.github.io/awesome-cheatsheets/)
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/LICENSE)
-
-**WEBSITE DIRECTORY**: [Available here](https://lecoupa.github.io/awesome-cheatsheets/).
-
-> 📚 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-
-## 🤔 Why Awesome-Cheatsheets?
-
-I usually make a cheat sheet when I want to improve my skills in a programming language, a framework or a development tool. [I started doing these kinds of things a long time ago on Gist](https://gist.github.com/LeCoupa). To better keep track of the history and to let people contribute, I reorganized all of them into this single repository. Most of the content is coming from official documentation and some books I have read.
-
-Feel free to take a look. You might learn new things. They have been designed to provide a quick way to assess your knowledge and to save you time.
-
 ## 📚 Table of Contents
 
 ### 📃 Languages
@@ -25,17 +11,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 
 #### Imperative
 
-- [C](languages/C.txt)
-- [C#](languages/C%23.txt)
-- [Go](languages/golang.md)
-- [Java](languages/java.md)
-- [PHP](languages/php.php)
 - [Python](languages/python.md)
-
-#### Functional
-
-- [JavaScript](languages/javascript.js)
-
 </details>
 
 ### 📦 Backend
@@ -43,41 +19,9 @@ Feel free to take a look. You might learn new things. They have been designed to
 <details>
 <summary>View cheatsheets</summary>
 
-#### PHP
-
-- [Laravel](backend/laravel.php)
-
-#### Python
-
-- [Django](backend/django.py)
-
-#### Javascript
-
-- [Adonis.js](backend/adonis.js)
-- [Express.js](backend/express.js)
-- [Feathers.js](backend/feathers.js)
-- [Moleculer](backend/moleculer.js)
-- [Node.js](backend/node.js)
-- [Sails.js](backend/sails.js)
-  </details>
-
-### 🌐 Frontend
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### Basics
-
-- [HTML5](frontend/html5.html)
-
 #### Frameworks
 
-- [React.js](frontend/react.js)
-- [Vue.js](frontend/vue.js)
-- [Tailwind.css](frontend/tailwind.css)
-- [Ember.js](frontend/ember.js)
-- [Angular (2+)](frontend/angular.js)
-- [AngularJS](frontend/angularjs.js)
+- [Django](backend/django.py)
   </details>
 
 ### 🗃️ Databases
@@ -131,6 +75,6 @@ You are more than welcome to contribute and build your own cheat sheet for your 
 
 ## 👩‍💻👨‍💻 Our valuable Contributors
 
-<p align="center"><a href="https://github.com/LeCoupa/awesome-cheatsheets/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=LeCoupa/awesome-cheatsheets" />
+<p align="center"><a href="https://github.com/farjanul-nayem/django-essentials/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=farjanul-nayem/django-essentials" />
 </a></p>
